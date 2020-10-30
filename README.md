@@ -9,7 +9,7 @@ Both Fluxnet and Google Earth Engine (GEE) are planetary-scale platforms for sci
 
 Code:https://drive.google.com/file/d/1WTrf38QwMqlc19F_BTRPIkRyuXzyxyXu/view?usp=sharing
 
-Github:
+Github:https://github.com/Hydrometeorological-Remote-Sensing/getPointvaluesonGEE.ipynb
 
 --
 
