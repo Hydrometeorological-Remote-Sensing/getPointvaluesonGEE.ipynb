@@ -1,4 +1,4 @@
-# Extract pixel values in Google Earth Engine (GEE) for Fluxnet sites
+# Extract pixel values in Google Earth Engine for Fluxnet sites
 
 Both Fluxnet and Google Earth Engine (GEE) are planetary-scale platforms for scientific research. Data from these two platforms provide an unprecedented perspective that allows researchers to detect the trends in climate and global change. However, I found it is a little tricky to get remote sensing values from GEE for Fluxnet sites. 
 
